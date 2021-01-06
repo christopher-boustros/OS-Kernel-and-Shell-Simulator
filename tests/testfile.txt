@@ -1,0 +1,15 @@
+help
+set n 123
+print n
+clearmem
+print n
+run a.txt
+run b.txt
+exec a.txt b.txt
+exec c.txt
+exec a.txt b.txt a.txt
+clearmem
+run hello.txt
+exec infiniteRecursion.txt
+help
+quit

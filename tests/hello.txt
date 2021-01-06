@@ -1,0 +1,3 @@
+set a Hello!
+print a
+quit

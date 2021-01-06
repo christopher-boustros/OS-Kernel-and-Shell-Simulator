@@ -1,0 +1,5 @@
+set a a
+print a
+print a
+print a
+quit
